@@ -1,7 +1,1 @@
-My first readme
-
-
-clear
-My first readme
-My first readme.
-cd /root
+another readme fot 0x01-git
